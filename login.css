@@ -1,0 +1,41 @@
+form{
+background-image: url("https://images.pexels.com/photos/25492332/pexels-photo-25492332/free-photo-of-wheel-and-red-livery-of-tuned-car.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+background-size: cover;
+height:50rem ;
+width: 100%;
+display: flex;
+flex-direction:column;
+justify-content: center;
+align-items: center;
+text-align: center;
+/* padding-top: 20px; */
+
+
+}
+input{
+    width: fit-content;
+}
+button{
+    width: fit-content;
+    margin-left: 30px;
+    height: 30px;
+    width: 80px;
+    background-color: blue;
+    border-radius: 10px;
+    border-color: blue;
+    color: white;
+}
+label{
+    color: rgb(255, 255, 255);
+    padding-bottom: 20px;
+
+}
+.box{
+    background: url("https://images.pexels.com/photos/25492332/pexels-photo-25492332/free-photo-of-wheel-and-red-livery-of-tuned-car.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size: cover;
+    height: 200px;
+    width: 300px;
+    padding-top: 100px;
+    border-radius: 30px;
+    border: 2px solid white;
+}
